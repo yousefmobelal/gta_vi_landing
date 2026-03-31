@@ -141,6 +141,12 @@ main {
       }
     }
   }
+
+  .second-vd-wrapper {
+    .second-vd {
+      @apply size-full object-cover md:object-[50%_center] object-[75%_center];
+    }
+  }
   .lucia {
     @apply relative;
   }
