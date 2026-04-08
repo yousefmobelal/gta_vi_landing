@@ -1,4 +1,10 @@
-# GTA VI Landing Page
+# 🎮 GTA VI — Animated Landing Page
+
+A cinematic, scroll-driven landing page inspired by **Grand Theft Auto VI**. Features buttery-smooth GSAP animations, clip-path transitions, and immersive visual storytelling.
+
+![GTA VI Landing Page Preview](./public/images/gta-vi-landing.gif)
+
+---
 
 A cinematic GTA VI-inspired landing page built with React, TypeScript, Vite, Tailwind CSS, and GSAP. The project focuses on immersive motion, layered visuals, and scroll-driven storytelling to create a promotional game-style landing experience.
 
